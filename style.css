@@ -1,0 +1,14 @@
+header{
+    background-color: #520696;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  
+}
+
+nav a {
+    border-radius: 8px;
+    padding: 10px;
+    color: white;
+}
